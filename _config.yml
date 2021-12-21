@@ -11,9 +11,9 @@ title                    : "Davi Nakajima An / Personal Website"
 title_separator          : "-"
 name                     : &name "Davi Nakajima An"
 description              : &description "Undergraduate Research Assistant @ Georgia Insitute of Technology"
-url                      : https://dna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://davinan.github.io/dna # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dna.github.io"
+repository               : "dna"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

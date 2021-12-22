@@ -25,18 +25,22 @@ Work experience
   
 Skills
 ======
-* Python 1
-  * PyTorch 1.1
-  * Tensorflow 1.2
-  * JAX 1.3
-* Git 2
+* Python (Advanced)
+  * PyTorch (Advanced)
+  * TensorFlow (Intermediate)
+  * JAX (Intermediate)
+* Git 
+* Java (Advanced)
+* C++ (Intermediate)
+* PHP (Basic)
+* SQL (Basic)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}

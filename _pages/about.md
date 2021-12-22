@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am an undergraduate student at Georgia Tech"
+title: "Davi Nakajima An"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

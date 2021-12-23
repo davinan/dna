@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="{{ site.url }}{{ site.baseurl }}/files/resume.pdf" width="1000" height="1000" type="application/pdf"></object>
+
 Education
 ======
 * B.S. in Computer Science, Minor in Chemistry & Biochemistry @ Georgia Institute of Technology, 2022 (expected)

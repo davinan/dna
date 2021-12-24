@@ -14,11 +14,11 @@ Education
 ======
 * B.S. in Computer Science, Minor in Chemistry & Biochemistry @ Georgia Institute of Technology, 2022 (expected)
 
-Selected Publications
+<!-- Selected Publications
 ======
   <ul>{% for post in site.selected_publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Publications
 ======

@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year undergraduate student at Georgia Institute of Technology working at [Prof. Mitchell's lab](https://sites.gatech.edu/cassie-mitchell-lab/) on artificial intelligence for biomedicine applications and collaborating with [Dr. Mu Gao](https://sites.gatech.edu/cssb/mu-gao/) on the problem of protein folding using deep learning.
+I am a PhD Candidate at the [Institute for Protein Design](https://www.ipd.uw.edu/) at the University of Washington, working in the [DiMaio Lab](https://www.ipd.uw.edu/2022/03/dimaio-lab/) on improving biomolecular structure-prediction models for modeling and engineering protein-ligand and antibody-antigen interactions.
 
 Education
 ======
-* B.S. in Computer Science, Minor in Chemistry & Biochemistry @ Georgia Institute of Technology, 2022 (expected)
+* Ph.D. in progress @ Institute for Protein Design, University of Washington
+* B.S. in Computer Science, Minor in Chemistry & Biochemistry @ Georgia Institute of Technology, 2022
 
 <!-- Selected Publications
 ======

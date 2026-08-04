@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Davi Nakajima An / Personal Website"
 title_separator          : "-"
 name                     : &name "Davi Nakajima An"
-description              : &description "Undergraduate Research Assistant @ Georgia Insitute of Technology"
+description              : &description "PhD Candidate @ Institute for Protein Design (UW / DiMaio Lab)"
 url                      : https://davinan.github.io/dna # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dna"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Davi Nakajima An"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Research Assistant @ Georgia Tech, working in deep learning for biology and healthcare"
-  location         : "Atlanta, GA"
-  employer         :
+  bio              : "PhD Candidate at the Institute for Protein Design (UW / DiMaio Lab), working on improving biomolecular structure-prediction models for modeling and engineering protein-ligand and antibody-antigen interactions"
+  location         : "Seattle, WA"
+  employer         : "Institute for Protein Design, University of Washington"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ICrNs9QAAAAJ&hl=en"
   email            :

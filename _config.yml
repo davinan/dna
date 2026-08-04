@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "PhD Candidate at the Institute for Protein Design (UW / DiMaio Lab), working on improving biomolecular structure-prediction models for modeling and engineering protein-ligand and antibody-antigen interactions"
   location         : "Seattle, WA"
-  employer         : "Institute for Protein Design, University of Washington"
+  employer         : "Institute for Protein Design<br>University of Washington"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ICrNs9QAAAAJ&hl=en"
   email            :

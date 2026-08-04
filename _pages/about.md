@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the [Institute for Protein Design](https://www.ipd.uw.edu/) at the University of Washington, working in the [DiMaio Lab](https://www.ipd.uw.edu/2022/03/dimaio-lab/) on improving biomolecular structure-prediction models for modeling and engineering protein-ligand and antibody-antigen interactions.
+I am a PhD Candidate at the [Institute for Protein Design](https://www.ipd.uw.edu/) at the University of Washington, working in the [DiMaio Lab](https://dimaiolab.ipd.uw.edu/) on improving biomolecular structure-prediction models for modeling and engineering protein-ligand and antibody-antigen interactions.
 
 Education
 ======
-* Ph.D. in progress @ Institute for Protein Design, University of Washington
+* Ph.D. Candidate (passed General Exam, December 2025)<br>Institute for Protein Design<br>University of Washington
+* M.S. in Molecular Engineering and Sciences<br>University of Washington, 2024
 * B.S. in Computer Science, Minor in Chemistry & Biochemistry @ Georgia Institute of Technology, 2022
 
 <!-- Selected Publications
